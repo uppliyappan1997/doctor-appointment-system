@@ -19,3 +19,11 @@ To get started with the Doctor Appointment Booking System, follow these steps:
    ```sh
    git clone https://github.com/uppliyappan1997/doctor-appointment-system.git
    cd doctor-appointment-system
+## Usage
+
+1. **Start the Server**
+
+   To start the server, run:
+
+   ```sh
+   npm start
